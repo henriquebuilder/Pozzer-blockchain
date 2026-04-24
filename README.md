@@ -177,9 +177,9 @@ Features:
 
 Technical documentation available:
 # docs/
--├── ARCHITECTURE.md
--├── SECURITY.md
--├── ROUTES.md
+├── ARCHITECTURE.md
+├── SECURITY.md
+├── ROUTES.md
 
 
 ---
@@ -227,10 +227,9 @@ NFT-based reward concepts (future expansion)
 To build scalable decentralized infrastructure where users can contribute resources, validate networks, and earn rewards — bridging Web3 with real-world systems.
 
 ## 🤝 Community
-Twitter: @pozzer_depin
-Telegram: t.me/pozzerpt
-Email: contato@pozzer.io
+- Twitter: @pozzer_depin
+- Telegram: t.me/pozzerpt
+- Email: contato@pozzer.io
 
 ## 📄 License
-
-MIT
+- MIT
